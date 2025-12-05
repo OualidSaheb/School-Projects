@@ -1,6 +1,6 @@
 # 🎓 School Projects Portfolio
 
-Welcome to my **School Projects Portfolio**!  
+Welcome to my **FullStack-Learning-Projects**!  
 This repository groups all my academic, training, and internship projects completed using:
 
 <!-- TECHNOLOGIES -->
