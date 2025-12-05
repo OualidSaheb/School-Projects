@@ -1,4 +1,4 @@
-# 🎓 School Projects Portfolio
+# 🎓 FullStack Learning Projects
 
 Welcome to my **FullStack-Learning-Projects**!  
 This repository groups all my academic, training, and internship projects completed using:
