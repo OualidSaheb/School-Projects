@@ -34,9 +34,10 @@ Each project below includes a description, screenshot placeholder, and link.
 A simple portfolio tracker where users can add crypto assets, edit them, delete them, and calculate the total value.  
 
 📸 **Screenshot:**  
-![Crypto Portfolio](./tracker.jpg)
+![Crypto Portfolio](./screenshots/tracker.jpg)
 
-🔗 **Project Link:**   [Here](https://github.com/OualidSaheb/School-Projects/tree/main/Crypto-Portfolio-Tracker)
+🔗 **Project Link:**    [Here](https://github.com/OualidSaheb/School-Projects/tree/main/Crypto-Portfolio-Tracker)
+
 ---
 
 ## 📝 2. **Super Duper Task Manager**  
@@ -53,6 +54,7 @@ A small project that manages tasks—add, delete, complete—built to practice T
 ![Task Manager](./screenshots/task%20manger.jpg)
 
 🔗 **Project Link:**  [Here](https://github.com/OualidSaheb/School-Projects/tree/main/Super-Duper-Task-Manager)
+
 ---
 
 ## 🛒 3. **TWENTY — E-commerce Website (MEVN Full Stack)**  
